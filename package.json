@@ -1,0 +1,22 @@
+{
+  "name": "piss",
+  "version": "0.0.1",
+  "description": "get process information for a pid",
+  "main": "index.js",
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "keywords": [
+    "ps",
+    "process",
+    "lookup",
+    "pid"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-piss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yetzt/node-piss/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-piss#readme"
+}
